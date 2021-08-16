@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slodziak190q
-- 👀 I’m interested in programing discordbots in discord.js
+- 👀 I’m interested in programing discord bots in discord.js
 - 🌱 I’m currently learning javascript
 - 📫 You can message me on discord xoxo#2137
 
